@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "typescript-node-client-side-solution",
+    "id": "c3f922b6-679b-445c-bb9b-98ec171a8c76",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "typescript-node description"
+      },
+      "longDescription": {
+        "default": "typescript-node description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "typescript-node Feature",
+        "description": "The feature that activates elements of the typescript-node solution.",
+        "id": "cb407699-2d79-4d9c-af8b-aa9bf53d1529",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/typescript-node.sppkg"
+  }
+}
